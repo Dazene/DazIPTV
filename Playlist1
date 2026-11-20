@@ -1,0 +1,1723 @@
+#EXTM3U
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал HD
+http://dmitry-tv.ddns.net/hls/T2/CH_1TVHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+8)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Первый канал (+9)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_1TV_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+2)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+4)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+6)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+7)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+8)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA1_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+8)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 (+9)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD (+9)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA1HD_9.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
+http://dmitry-tv.ddns.net/hls/T2/CH_NTVHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_NTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ МИР
+http://dmitry-tv.ddns.net/hls/T2/CH_NTV_MIR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятый канал (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_5TV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К HD
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIAKHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия К (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIAK_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RUSSIA24.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 HD
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24HD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+2)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+3)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 (+6)
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 24 International
+http://dmitry-tv.ddns.net/hls/smotrim/T2/CH_RUSSIA24_INT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Карусель (+8)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_KARUSEL_8.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_OTR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ОТР (+4)
+http://dmitry-tv.ddns.net/hls/T2/CH_OTR_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TVC_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВЦ International
+http://dmitry-tv.ddns.net/hls/T2/CH_TVC_INTERNATIONAL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_RENTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ International
+http://dmitry-tv.ddns.net/hls/T2/CH_RENTV_INTERNATIONAL.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СПАС (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_SPAS_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_STS_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Домашний (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_DOMASHNIY_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TV3_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница!
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Пятница! (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_FRIDAY_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда HD
+http://dmitry-tv.ddns.net/hls/T2/CH_ZVEZDAHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Звезда (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_ZVEZDA_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР HD
+http://dmitry-tv.ddns.net/hls/T2/CH_MIRHD.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МИР (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MIR_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_TNT_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+2)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+4)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+6)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",МУЗ ТВ (+7)
+http://dmitry-tv.ddns.net/hls/DVB-T2/CH_MUZTV_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че!
+http://dmitry-tv.ddns.net/hls/zabava/CH_CHE.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+6)
+http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Че! (+7)
+http://dmitry-tv.ddns.net/hls/zabava/CH_CHE_7.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю
+http://dmitry-tv.ddns.net/hls/zabava/CH_U.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_U_2.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_U_4.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+6)
+http://dmitry-tv.ddns.net/hls/zabava/CH_U_6.m3u8
+#EXTINF:-1 group-title="ЭФИРНЫЕ",Ю (+7)
+http://dmitry-tv.ddns.net/hls/zabava/CH_U_7.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2
+http://dmitry-tv.ddns.net/hls/zabava/CH_2X2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+6)
+http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_6.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",2x2 (+7)
+http://dmitry-tv.ddns.net/hls/zabava/CH_2X2_7.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС Love
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС Love (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",СТС Love (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_STSLOVE_4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота!
+http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+6)
+http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_6.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",Суббота! (+7)
+http://dmitry-tv.ddns.net/hls/zabava/CH_SUBBOTA_7.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_2.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_4.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+6)
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_6.m3u8
+#EXTINF:-1 group-title="РАЗВЛЕКАТЕЛЬНЫЕ",ТНТ4 (+7)
+http://dmitry-tv.ddns.net/hls/zabava/CH_TNT4_7.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="sony-turbo" audio-track="rus", .Black
+http://46.32.176.50/sonyturbo/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="sony-turbo" audio-track="rus", .Black HD
+http://stream.mcquack.net/283/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="sony-tv" audio-track="rus", .Red
+http://176.100.46.245:90/red/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="sony-tv" audio-track="rus", .Red HD
+http://89.33.29.115:8080/SET/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="sony-scifi" audio-track="rus", .Sci-Fi
+http://flussonic.mkpnet.ru/tv-e80cc885d4ae14d1/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Amedia 1
+http://46.32.176.50/amedia1/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Amedia 2
+http://flussonic.mkpnet.ru/tv-cad19a32f4a82824/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Amedia Hit
+http://flussonic.mkpnet.ru/tv-8f04998179283ee5/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Amedia Hit HD
+http://194.152.35.17/amedia-hit/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Amedia Premium
+http://46.32.176.50/AmediaPremiumHD/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Amedia Premium HD
+https://fs.uplink.kz/amedia_premium_hd/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Bollywood
+https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Bolt
+http://185.195.184.30:8000/play/a0la/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Bolt HD
+http://stream.mcquack.net/73/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Cinema
+http://194.152.35.17/cinema/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Cinema HD
+http://195.64.140.147:10055/55
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Epic Drama
+http://195.189.60.253/118/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", FAN
+http://31.210.208.171:8080/fan/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" audio-track="rus", FAN HD
+http://stream.mcquack.net/420/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", FX HD
+http://89.33.29.115:8080/FOX_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", FX Life HD
+http://89.33.29.115:8080/Fox_Life_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", FilmUADrama HD
+http://stream.mcquack.net/273/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", FlixSnip
+http://185.195.184.30:8000/play/a0hd/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Hollywood
+http://50.7.120.34:8080/HOLLYWOOD/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Hollywood HD
+http://46.32.176.50/HollywoodHD/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Horror TV HD
+http://89.33.29.115:8080/Horror/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", KinoLiving HD
+http://stream.mcquack.net/445/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Plan_B
+http://46.32.176.50/paramountchannel/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Plan_B HD
+http://195.64.140.147:10082/82
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://i.ibb.co/mrBfHb29/image.png", Revolyo Mnemo
+https://132544.edgevideo.ru/streams/132544_975515/1325441080/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Saga TV
+http://46.175.123.164:4022/udp/239.195.65.56:1234
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Shot TV
+http://31.210.208.171:8080/shottv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Star Cinema
+http://185.195.184.30:8000/play/a0l2/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Start Air
+https://fs.uplink.kz/start_air/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Start Air HD
+http://195.64.140.147:10063/63
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Timeless Dizi
+http://tv.ttk.mx:9189
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Viasat Kino Comedy HD
+http://ukr2.ukrainske.tv/493/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju TV1000
+http://217.11.177.56/streams/media/tv1000_720x576/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju TV1000 HD
+http://89.33.29.115:8080/TV1000/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju TV1000 action
+http://fs.uplink.kz/viju_tv1000_action/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju TV1000 action HD
+http://89.33.29.115:8080/TV1000_Action/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju TV1000 русское
+http://195.64.140.147:10069/69
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Comedy
+http://46.32.176.50/VIPComedyHD/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Comedy HD
+http://flussonic.mkpnet.ru/tv-c385ec3bab3a3605/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Megahit
+http://185.46.16.239:8000/VIP_Megahit
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Megahit HD
+http://flussonic.mkpnet.ru/tv-3d1cedf99303d057/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Premiere
+http://46.32.176.50/VIPPremiereHD/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Premiere HD
+http://flussonic.mkpnet.ru/tv-e107d21a90cb808f/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Serial
+http://stream.mcquack.net/311/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", viju+ Serial HD
+http://185.195.184.30:8000/play/a0ld/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="domkino" audio-track="rus", Дом КИНО
+http://46.32.176.50/domkino/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="domkino-premium" audio-track="rus", Дом КИНО Премиум
+http://fs.uplink.kz/dom_kino_premium/tracks-v1a1/mono.ts.m3u8?token=onlinetv
+#EXTINF:-1 group-title="КИНО" tvg-id="domkino-premium" audio-track="rus", Дом КИНО Премиум HD
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="dorama" audio-track="rus", Дорама
+http://109.248.236.51/dorama/video.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="dorama" audio-track="rus", Дорама HD
+http://89.33.29.115:8080/dorama_hd/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="evrokino" audio-track="rus", ЕвроКИНО
+http://46.32.176.50/eurokino/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="evrokino" audio-track="rus", ЕвроКИНО HD
+http://stream.mcquack.net/385/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="illuzion-plus" audio-track="rus", Иллюзион+
+http://46.32.176.50/illuzion/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="indiyskoe-kino" audio-track="rus", Индийское КИНО
+http://188.113.190.12/329/mono.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="zee-tv" audio-track="rus", Индия
+http://31.210.208.171:8080/indiya/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" tvg-id="kamedi" audio-track="rus", Камеди HD
+http://89.33.29.115:8080/Kinopokaz_HD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kineko" audio-track="rus", Кинеко
+http://46.32.176.50/foxrussia/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kineko" audio-track="rus", Кинеко HD
+http://31.210.208.171:8080/kineko/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" tvg-id="kino-tv" audio-track="rus", КИНО ТВ
+http://31.210.208.171:8080/kinotv/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" tvg-id="kino-tv" audio-track="rus", КИНО ТВ HD
+http://194.152.35.17/kino-tv/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", КИНОМеню HD
+http://stitch.teletarget.ru/vintera/kinomenu/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinosezon" audio-track="rus", КИНОСезон HD
+http://stitch.teletarget.ru/vintera/movieseason/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinokomedia" audio-track="rus", КИНОкомедия
+https://fs.uplink.kz/kinokomedia/mono.m3u8?token=onlinetv
+#EXTINF:-1 group-title="КИНО" tvg-id="kinokomedia" audio-track="rus", КИНОкомедия HD
+http://stream.mcquack.net/265/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinosat" audio-track="rus", КИНОман
+http://185.121.1.163:8083/Kinoman/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinomiks" audio-track="rus", КИНОмикс
+http://46.32.176.50/kinomiks/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinomiks" audio-track="rus", КИНОмикс HD
+http://stream.mcquack.net/133/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinopokaz" audio-track="rus", КИНОпоказ
+http://176.118.197.101/Kinopokaz/mono.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinopokaz" audio-track="rus", КИНОпоказ HD
+http://stream.mcquack.net/64/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinopremiera-hd" audio-track="rus", КИНОпремьера
+http://185.121.1.163:8083/Kinopremyera/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinopremiera-hd" audio-track="rus", КИНОпремьера HD
+http://5.188.159.128:8070/KINOPREMIERA/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinosvidanie" audio-track="rus", КИНОсвидание
+http://tv.ttk.mx:9164
+#EXTINF:-1 group-title="КИНО" tvg-id="kinosvidanie" audio-track="rus", КИНОсвидание HD
+http://185.195.184.30:8000/play/a0jw/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinosemiya" audio-track="rus", КИНОсемья
+http://46.32.176.50/kinosemya/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinosemiya" audio-track="rus", КИНОсемья HD
+http://185.121.1.163:8083/Kinosemya/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinoseria" audio-track="rus", КИНОсерия
+http://46.32.176.50/kinoseria/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinouzhas" audio-track="rus", КИНОужас
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" tvg-id="kinouzhas" audio-track="rus", КИНОужас HD
+http://stream.mcquack.net/278/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinoxit" audio-track="rus", КИНОхит
+http://89.33.29.115:8080/Kinohit/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="kinoxit" audio-track="rus", КИНОхит HD
+http://stream.mcquack.net/126/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="klassika-kino" audio-track="rus", Классика КИНО
+http://stitch.teletarget.ru/vintera/movieclassic/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-id="russkaya-komedia" audio-track="rus", Комедия
+http://176.118.197.101/Komediya/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Легенда HD
+https://flussonic.mkpnet.ru/tv-7a5f996197077375/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Любимое КИНО
+http://46.32.176.50/lubimoekino/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Любимое КИНО HD
+http://stream.mcquack.net/456/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Мир сериала
+http://46.32.176.50/mirseriala/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Мосфильм. Золотая коллекция
+http://185.121.1.163:8083/Mosfilm/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Мосфильм. Золотая коллекция HD
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Мужское КИНО
+http://46.32.176.50/MujskoeKinoHD/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Мужское КИНО HD
+http://stream.mcquack.net/107/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", НСТ
+http://46.32.176.50/nst/index.m3u8
+#EXTINF:-1 group-title="КИНО",НТВ ПРАВО
+http://dmitry-tv.ddns.net/hls/CH_NTVPRAVO.m3u8
+#EXTINF:-1 group-title="КИНО",НТВ СЕРИАЛ
+http://dmitry-tv.ddns.net/hls/CH_NTVSERIAL.m3u8
+#EXTINF:-1 group-title="КИНО",НТВ СТИЛЬ
+http://dmitry-tv.ddns.net/hls/CH_NTVSTIL.m3u8
+#EXTINF:-1 group-title="КИНО",НТВ ХИТ
+http://dmitry-tv.ddns.net/hls/CH_NTVHIT.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Наше крутое HD
+http://stream.mcquack.net/217/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Наше новое КИНО
+http://185.46.16.239:8000/Nickelodeon
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Остросюжетное HD
+http://89.33.29.115:8080/Ostrosyuzhetnoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Премиальное
+http://89.33.29.115:8080/Kino_premium_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Премиальное HD
+http://stream.mcquack.net/421/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Про любовь HD
+http://89.33.29.115:8080/pro_lyubov/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Ретро
+http://tv.ttk.mx:9032
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Родное КИНО
+http://31.210.208.171:8080/rodnoe_kino/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Романтичное HD
+http://89.33.29.115:8080/Semeynoe_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Русский бестселлер
+http://195.64.140.147:10075/75
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Русский детектив
+https://flussonic.mkpnet.ru/tv-2997fed720614567/video.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Русский иллюзион
+http://185.46.16.239:8000/Russkiy_Illyuzion
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Русский иллюзион HD
+http://195.64.140.147:10093/93
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Русский роман
+http://31.210.208.171:8080/russian_roman/index.m3u8?token=+W2MSER
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Русский роман HD
+http://tv.ttk.mx:9085
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Сапфир
+http://46.32.176.50/foxlife/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Сапфир HD
+http://77.232.131.211/Sapfir/manifest.m3u8
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОАРТ
+https://cityeden.catcast.tv/content/38398/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОАзия
+https://cityeden.catcast.tv/content/34393/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОДетектив
+https://cityeden.catcast.tv/content/41327/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОДок
+https://cityeden.catcast.tv/content/38354/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОДрама
+https://cityeden.catcast.tv/content/45269/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОКлассика
+https://cityeden.catcast.tv/content/34185/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОКомедия
+https://cityeden.catcast.tv/content/41331/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОМистика
+https://cityeden.catcast.tv/content/40783/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОСемья
+https://cityeden.catcast.tv/content/38128/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОФантастика
+https://cityeden.catcast.tv/content/45268/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — КИНОЭкшен
+https://cityeden.catcast.tv/content/41333/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — ТелеНовелла
+https://cityeden.catcast.tv/content/46209/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО", Сити Эдем — Христианский
+https://cityeden.catcast.tv/content/34246/index.m3u8?password=loganet
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Советское КИНО
+http://stitch.teletarget.ru/vintera/sovietmovie/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", ТВ21
+http://46.32.176.50/tv21/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Хит HD
+http://stream.mcquack.net/363/index.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Шокирующее
+http://89.33.29.115:8080/Kinopokaz_HD1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="КИНО" audio-track="rus", Шокирующее HD
+http://stream.mcquack.net/75/index.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/sp_vert_live8.jpg",НТВ Сериалы Скорая помощь
+https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/pes_live_vert.jpg",НТВ Сериалы Пёс
+https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/1st_otdel_vert_live.jpg",НТВ Сериалы Первый отдел
+https://cdn-dvr.ntv.ru/Perviy_otdel/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/shef_vert_live_1.jpg",НТВ Сериалы Шеф
+https://cdn-dvr.ntv.ru/Shef/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20250926/nevs_black_live3.jpg",НТВ Сериалы Невский
+https://cdn-dvr.ntv.ru/Nevskiy/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/balabol_vse_vert.jpg",НТВ Сериалы Балабол
+https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="КИНО" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
+https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",МУЛЬТ
+http://dmitry-tv.ddns.net/hls/CH_MULT.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+6)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Солнце (+7)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",В гостях у сказки
+http://dmitry-tv.ddns.net/hls/CH_VGOSTYAHUSKAZKI.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",В гостях у сказки HD
+http://dmitry-tv.ddns.net/hls/CH_VGOSTYAHUSKAZKIHD.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Мультиландия
+http://dmitry-tv.ddns.net/hls/CH_MULTILANDIA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",О!
+http://dmitry-tv.ddns.net/hls/CH_O.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Рыжий
+http://dmitry-tv.ddns.net/hls/CH_RYZHIY.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Детский
+http://dmitry-tv.ddns.net/hls/CH_DETSKIY.m3u8
+#EXTINF:-1 tvg-id="CartoonClassics.ru@SD" tvg-logo="https://sales.planbkino.tv//b/c/471.png" group-title="ДЕТСКИЕ",Cartoon Classics
+http://88.218.242.237:8001/Cartoon_Classics
+#EXTINF:-1 group-title="ДЕТСКИЕ",КАПИТАН ФАНТАСТИКА
+http://dmitry-tv.ddns.net/hls/CH_KAPITAN_FANTASTIKA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Радость моя
+http://dmitry-tv.ddns.net/hls/CH_RADOSTMOYA.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Tiji
+http://dmitry-tv.ddns.net/hls/CH_TIJI.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Gulli GIRL
+http://dmitry-tv.ddns.net/hls/CH_GULLI_GIRL.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Da Vinci
+http://dmitry-tv.ddns.net/hls/CH_DAVINCI.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",NICKELODEON HD
+http://dmitry-tv.ddns.net/hls/CH_NICKELODEONHD.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",NickToons
+http://dmitry-tv.ddns.net/hls/CH_NICKTOONS.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Nick Jr
+http://dmitry-tv.ddns.net/hls/CH_NICKJR.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ",Duck tv HD
+http://dmitry-tv.ddns.net/hls/CH_DUCKTVHD.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="ДЕТСКИЕ" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",СТАРТ ТРИУМФ
+http://dmitry-tv.ddns.net/hls/CH_START_TRIUMF.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",VIASAT SPORT HD
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_SPORTHD.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",TRACE SPORT STARS
+http://dmitry-tv.ddns.net/hls/CH_TRACE_SPORT_STARS.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",SETANTA SPORTS 1 HD
+http://dmitry-tv.ddns.net/hls/CH_SETANTA_SPORTS1HD.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",SETANTA SPORTS 2 HD
+http://dmitry-tv.ddns.net/hls/CH_SETANTA_SPORTS2HD.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Точка отрыва
+http://dmitry-tv.ddns.net/hls/CH_TOCHKA_OTRYVA.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",Sport+ HD
+http://dmitry-tv.ddns.net/hls/CH_SPORT_PLUSHD.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",АВТО 24
+http://dmitry-tv.ddns.net/hls/CH_AVTO24.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",FUEL TV HD
+http://dmitry-tv.ddns.net/hls/CH_FUELTVHD.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",ДРАЙВ
+http://dmitry-tv.ddns.net/hls/CH_DRIVE.m3u8
+#EXTINF:-1 group-title="СПОРТИВНЫЕ",EUROSPORT 1
+http://dmitry-tv.ddns.net/hls/CH_EUROSPORT1.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРОДВИЖЕНИЕ
+http://dmitry-tv.ddns.net/hls/CH_PRODVIZHENIE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",СОЮЗ HD
+http://dmitry-tv.ddns.net/hls/CH_SOYUZHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ
+http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НЕИЗВЕСТНАЯ РОССИЯ HD
+http://dmitry-tv.ddns.net/hls/CH_UNKNOWN_RUSSIAHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Наука 2.0
+http://dmitry-tv.ddns.net/hls/CH_NAUKA20.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Моя планета
+http://dmitry-tv.ddns.net/hls/CH_MOYA_PLANETA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охота и рыбалка
+http://dmitry-tv.ddns.net/hls/CH_OHOTAIRYBALKA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT EXPLORE HD
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_EXPLOREHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT HISTORY HD
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_HISTORYHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",VIASAT NATURE HD
+http://dmitry-tv.ddns.net/hls/CH_VIASAT_NATUREHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ВРЕМЯ
+http://dmitry-tv.ddns.net/hls/CH_VREMYA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NATIONAL GEOGRAPHIC
+http://stream1.cinerama.uz/1041/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",NATIONAL GEOGRAPHIC WILD
+http://dmitry-tv.ddns.net/hls/CH_NATIONALGEOGRAPHICWILD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Загородный
+http://dmitry-tv.ddns.net/hls/CH_ZAGORODNY.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ИСТОРИЯ
+http://dmitry-tv.ddns.net/hls/CH_ISTORIA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая планета
+http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PLANETA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Живая природа
+http://dmitry-tv.ddns.net/hls/CH_ZHIVAYA_PRIRODA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",В мире животных HD720
+http://dmitry-tv.ddns.net/hls/CH_VMIREZHIVOTNYH_HD720.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Охотник и рыболов
+http://dmitry-tv.ddns.net/hls/CH_OHOTNIKIRYBOLOV.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Арсенал
+http://dmitry-tv.ddns.net/hls/CH_ARSENAL.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Первый космический
+http://dmitry-tv.ddns.net/hls/CH_1KOSMICHESKIY.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ИНСАЙТ ТВ HD
+http://dmitry-tv.ddns.net/hls/CH_INSAYT_TVHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПРИКЛЮЧЕНИЯ
+http://dmitry-tv.ddns.net/hls/CH_PRIKLYUCHENIYA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Глазами туриста
+http://dmitry-tv.ddns.net/hls/CH_GLAZAMI_TURISTA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",НАША СИБИРЬ HD
+http://dmitry-tv.ddns.net/hls/CH_NASHA_SIBIRHD.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Т24
+http://dmitry-tv.ddns.net/hls/CH_T24.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Доктор
+http://dmitry-tv.ddns.net/hls/CH_DOKTOR.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Zoo ПАРК
+http://dmitry-tv.ddns.net/hls/CH_3OOPARK.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ТЕЛЕКАФЕ
+http://dmitry-tv.ddns.net/hls/CH_TELEKAFE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Поехали!
+http://dmitry-tv.ddns.net/hls/CH_POEHALI.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",Оружие
+http://dmitry-tv.ddns.net/hls/CH_ORUZHIE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",БОБЁР
+http://dmitry-tv.ddns.net/hls/CH_BOBER.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",TOP SECRET
+http://dmitry-tv.ddns.net/hls/CH_TOP_SECRET.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ВОПРОСЫ И ОТВЕТЫ
+http://dmitry-tv.ddns.net/hls/CH_VOPROSYIOTVETY.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ПСИХОЛОГИЯ 21
+http://dmitry-tv.ddns.net/hls/CH_PSIHOLOGIA21.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ДОМАШНИЕ ЖИВОТНЫЕ
+http://dmitry-tv.ddns.net/hls/CH_DOMASHNIEZHIVOTNYE.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",УСАДЬБА
+http://dmitry-tv.ddns.net/hls/CH_USADBA.m3u8
+#EXTINF:-1 group-title="ПОЗНАВАТЕЛЬНЫЕ",ЗДОРОВОЕ ТВ
+http://dmitry-tv.ddns.net/hls/CH_ZDOROVOETV.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Муз Союз
+http://dmitry-tv.ddns.net/hls/CH_MUZSOYUZ.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",V2BEAT HD720
+http://dmitry-tv.ddns.net/hls/CH_V2BEATHD720.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Kronehit
+http://dmitry-tv.ddns.net/hls/CH_KRONEHIT.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Kronehit HD
+http://dmitry-tv.ddns.net/hls/CH_KRONEHITHD.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Шансон ТВ
+http://dmitry-tv.ddns.net/hls/CH_SHANSONTV.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",ТНТ MUSIC HD
+http://dmitry-tv.ddns.net/hls/CH_TNTMUSICHD.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",RUTV
+http://dmitry-tv.ddns.net/hls/CH_RUTV.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",МУЗЫКА ПЕРВОГО
+http://dmitry-tv.ddns.net/hls/CH_MUZYKA_PERVOGO.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",FTV HD
+http://dmitry-tv.ddns.net/hls/CH_FTVHD.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",MYDAYTV
+http://dmitry-tv.ddns.net/hls/CH_MYDAYTV.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Retro TV HD
+http://dmitry-tv.ddns.net/hls/CH_RETROTVHD.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Europa Plus
+http://dmitry-tv.ddns.net/hls/CH_EUROPA_PLUS.m3u8
+#EXTINF:-1 group-title="МУЗЫКАЛЬНЫЕ",Жара
+http://dmitry-tv.ddns.net/hls/CH_ZHARA.m3u8
+#EXTINF:-1 group-title="RUTUBE",RUTUBE TV
+https://bl.RUTUBE.ru/livestream/9ae8e8a6dc58bdad66190475f9872ecd/index.m3u8?s=8wWj_UpYmSBQLlVKJ0oRbQ&e=2092608907&scheme=https
+#EXTINF:-1 group-title="RUTUBE",КИНОжелезо
+https://bl.RUTUBE.ru/livestream/4965b7b928c4a143d708ab424be01d37/index.m3u8?s=imU9k_rXttmWWbo7wsAzzg&e=2092608916&scheme=https
+#EXTINF:-1 group-title="RUTUBE",КИНОлаффка
+https://bl.RUTUBE.ru/livestream/3b7d1499da9396462bfd17282d758d30/index.m3u8?s=7fo_pHZSLSKtoCPAezp6XA&e=2092608916&scheme=https
+#EXTINF:-1 group-title="RUTUBE",КИНО и Жизнь
+https://bl.RUTUBE.ru/livestream/09e51eefa939595a4ac67182c6fb3e4e/index.m3u8?s=EDyG6CHzy0VQxOfzX0N68g&e=2092608917&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Фильмач
+https://bl.RUTUBE.ru/livestream/300560a65014ec501a25b1f79df9ad90/index.m3u8?s=0IW5bGztJ4rGTwcfNNYGwA&e=2092608917&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Вселенная звездных войн
+https://bl.RUTUBE.ru/livestream/dcd36c7833f9431e6e6c902515c6c3ac/index.m3u8?s=i8WF3RQEUfglEpKGgFztmA&e=2092608919&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Вселенная Гарри Поттера
+https://bl.RUTUBE.ru/livestream/f6a3656e5ef574982994ddf2e5003341/index.m3u8?s=YeThLzTvYuwJq5rjBqhXMg&e=2092608919&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Вселенная Властелина колец
+https://bl.RUTUBE.ru/livestream/6f99d2a36810a41acc8f66af25441ae3/index.m3u8?s=t-jSH2oqy8Z1vNngMA48rw&e=2092608920&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Вселенная Marvel
+https://bl.RUTUBE.ru/livestream/3abeb7577fd38ac4b8130bb8e03418f2/index.m3u8?s=ObW_4w4WEdh6nuOjG7XRXA&e=2092608920&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Вселенная DC
+https://bl.RUTUBE.ru/livestream/31cd70d4054fbbde3b169d9a6972515c/index.m3u8?s=pM2D_gQKTKthmmbg8R_mJQ&e=2092608920&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Вселенная Рика и Морти
+https://bl.RUTUBE.ru/livestream/478a825bfd784e1e9de08ceceb3d2121/index.m3u8?s=_dEDl4WoQEAdr2lzefu65w&e=2092608944&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Твой КИНОтеатр
+https://bl.RUTUBE.ru/livestream/e08e513c4e33f52fce3a975b5cb6932c/index.m3u8?s=AVm-zwCcM0GPVFB9V-h_yw&e=2092608921&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Наше Аниме
+https://bl.RUTUBE.ru/livestream/ec5267347fa50d03edba227906eba679/index.m3u8?s=xG6JRUCnDQH0iCmH4gVy-A&e=2092608944&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Детективы каждый день
+https://bl.RUTUBE.ru/livestream/e05401be60a9cc719fa7075b6e77b86d/index.m3u8?s=WGFkyHG7RrcBDsB352ExqQ&e=2092608917&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Apple TV+Action Time
+https://bl.RUTUBE.ru/livestream/74bb437ef478a52f42198c50d4241dc7/index.m3u8?s=hNsfsdoWVxiYdD6k5sfx4w&e=2092608917&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Apple TV+Woman's Story
+https://bl.RUTUBE.ru/livestream/680dfe110840cf882437082b948578d6/index.m3u8?s=jAvi8XkG_yOCpFijVH7Izg&e=2092608918&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Epic Media Love
+https://bl.RUTUBE.ru/livestream/21f3993ed8291b70208aa06c982c731f/index.m3u8?s=9uN9jOi-Ge9Qmati0jSFkQ&e=2092608918&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Epic Media Plus
+https://bl.RUTUBE.ru/livestream/0ed0696149c131d3a7349372d730d4e6/index.m3u8?s=M5MmuuSWqmvWLcl9JJ9Rng&e=2092608918&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Amazon Prime Video mans' club
+https://bl.RUTUBE.ru/livestream/99f8f1d827641b766de62fe9023642fa/index.m3u8?s=x_U6BzmM2ZsgAQNtH2OoRA&e=2092608919&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Amazon Prime Video Romance
+https://bl.RUTUBE.ru/livestream/7758ac4d77fac95e187144ee2c8b368d/index.m3u8?s=6-kBr1YfJU2NnNmLYP0bVg&e=2092608919&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Мультимейшн
+https://bl.RUTUBE.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=m0zwaamBAym9yqZXAICwrQ&e=2092608944&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Мультфильмы 24/7
+https://bl.RUTUBE.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=zc-rTHyAiR9xpSqKG6mgjw&e=2092608944&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Мультаташечки
+https://bl.RUTUBE.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=mvu1Ogj2Q7Irr8r1oDuvJA&e=2092608945&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Kronehit TV
+https://bl.RUTUBE.ru/livestream/bc1b811349f526188c839d377913e16a/index.m3u8?s=rzdJM_CIIh6qDod2qUnlww&e=2092608947&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Жар Птица
+https://bl.RUTUBE.ru/livestream/c93be53cba8a4ba6ac311b395a00f4d5/index.m3u8?s=GjLa9-62tFp5BjPDzxmdEg&e=2092608947&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Activa TV
+https://bl.RUTUBE.ru/livestream/8e9da41366fcb497aaeade579f0d715f/index.m3u8?s=QsNE9Bp66IY2q44f0jzycQ&e=2092608947&scheme=https
+#EXTINF:-1 group-title="RUTUBE",RU.TV
+https://bl.RUTUBE.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?s=_Q4lDDa4PW6FKkJBXAqtUw&e=2092608947&scheme=https
+#EXTINF:-1 group-title="RUTUBE",МузТВ
+https://bl.RUTUBE.ru/livestream/df6fe73494a26f74da51573fd97b9baa/index.m3u8?s=zL8z-1r17HMsAz4Zdghw_g&e=2092608948&scheme=https
+#EXTINF:-1 group-title="RUTUBE",ТНТ Music
+https://bl.RUTUBE.ru/livestream/5a294ae1ed12c44c7053301fb5fa9ba0/index.m3u8?s=n5C5U4i28Tkp5McoHT3Eig&e=2092608948&scheme=https
+#EXTINF:-1 group-title="RUTUBE",ММТВ
+https://bl.RUTUBE.ru/livestream/965a025e4ebbaf0957415f80c6de8534/index.m3u8?s=Zv_qC6ojQXv-bYNm0u6w1Q&e=2092608948&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Now Rock
+https://bl.RUTUBE.ru/livestream/047ba54d846ee185b4209a797a2ae138/index.m3u8?s=cHuIDZqhvID0_wejeZbS7A&e=2092608948&scheme=https
+#EXTINF:-1 group-title="RUTUBE",МузСоюз
+https://bl.RUTUBE.ru/livestream/d1dff14680d4c84e27908983375f7e89/index.m3u8?s=HQuKUHz2SaEcfdcx1sjX-g&e=2092608949&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Супердискотека 90х
+https://bl.RUTUBE.ru/livestream/351f0e84a7db69a73658bbf61debcf62/index.m3u8?s=Y2-9Gj0vA9GjkUruEjoBJw&e=2092608949&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Big Hits
+https://bl.RUTUBE.ru/livestream/c7b8a6f89c95f9d224d7811d4489d5f7/index.m3u8?s=zydtxNaIuaXu5zHOI8NfrQ&e=2092608949&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Rock
+https://bl.RUTUBE.ru/livestream/a1bad1d3fee40a92df8f3d8d3de16821/index.m3u8?s=725o2F922X3dziSXWHhHvQ&e=2092608949&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Dance Radio
+https://bl.RUTUBE.ru/livestream/21675e5154442266a0c154f168a6b019/index.m3u8?s=uBYSHXT7A_JyOs_gAZyOVw&e=2092608950&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Russian Hits
+https://bl.RUTUBE.ru/livestream/b5f4e1d43e11888455a0a66f0872e77b/index.m3u8?s=35WPKrGsDQMScESAV_voaw&e=2092608950&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Гоп FM
+https://bl.RUTUBE.ru/livestream/b575eaf54bd00d5fb079c55988bc0f24/index.m3u8?s=y56l0Pvkp-FuYVy2eWkBHQ&e=2092608950&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Megamix
+https://bl.RUTUBE.ru/livestream/60b73481dcc9880850f22690142c8d17/index.m3u8?s=BV9Mjs27r57GRDKN_XlzGA&e=2092608950&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Russian Mix
+https://bl.RUTUBE.ru/livestream/2f3e5c6a66617c063f12d8d5d49248c7/index.m3u8?s=miHDy6zSPerdAGK2BGkxdg&e=2092608951&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Deep
+https://bl.RUTUBE.ru/livestream/9249feec1c78e5414f68ecf40a6645d2/index.m3u8?s=HrATKXk8TwX_Q3Wc98afeA&e=2092608951&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Phonk
+https://bl.RUTUBE.ru/livestream/f972da70f03eee3d14fcff4113a8b6e4/index.m3u8?s=KfqMrhc_cGzvg0lnUIl4-Q&e=2092608951&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Chill House
+https://bl.RUTUBE.ru/livestream/149b862a6f45faed8800e28c15066c21/index.m3u8?s=uu8NnXltBBdwiclbDKdCVA&e=2092608952&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Drum n Bass
+https://bl.RUTUBE.ru/livestream/dc756dfadfdb320e9cec39b35def79e3/index.m3u8?s=gESDyZNtE5uY7y9WVTWSdA&e=2092608952&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Chill-Out
+https://bl.RUTUBE.ru/livestream/6ad623fe9b908f3823c47e77cd981cd4/index.m3u8?s=zF6lySgz4_7RYTjyiWe5Vw&e=2092608952&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Techno by Innocence
+https://bl.RUTUBE.ru/livestream/a385dcd78395ea7740d1aed28980fe6c/index.m3u8?s=nQLSa50WQiFncv5kLoCOoA&e=2092608952&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Record Trance
+https://bl.RUTUBE.ru/livestream/26aeb9043f519687846255556ee891aa/index.m3u8?s=BIkoGspocyOmmm99fn4rQw&e=2092608953&scheme=https
+#EXTINF:-1 group-title="RUTUBE",VIVA Russia HD
+https://bl.RUTUBE.ru/livestream/f712ae5ff3db23ec09b3674133d44daa/index.m3u8?s=uPj-Lhwp16iVmCtNQP7wZg&e=2092608953&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Охотник и рыболов
+https://bl.RUTUBE.ru/livestream/1da5d92af8c55b16241f1eb12a27f00c/index.m3u8?s=oumRtChI-ggeiWCE7AfgPw&e=2092608913&scheme=https
+#EXTINF:-1 group-title="RUTUBE",Документалки и шоу
+https://bl.RUTUBE.ru/livestream/eddcc86d1dee0b5def546ea388eb38ea/index.m3u8?s=YZ2-EkFZ6qU2qd22LdYkEw&e=2092608913&scheme=https
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ КИНО и сериалы
+http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALY.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ КИНО и сериалы HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_KINO_I_SERIALYHD.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ЛЮБОВЬ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOV.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ЛЮБОВЬ HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_LYUBOVHD.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% МУЖСКОЕ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOE.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% МУЖСКОЕ HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_MUZHSKOEHD.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% КЛАССИКА
+http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICA.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% КЛАССИКА HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_CLASSICAHD.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ФАКТЫ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTY.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ФАКТЫ HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_FAKTYHD.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ПРАЗДНИК
+http://dmitry-tv.ddns.net/hls/smotrim/CH_PRAZDNIK.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ПРАЗДНИК HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_PRAZDNIKHD.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ДЕТСКОЕ
+http://dmitry-tv.ddns.net/hls/smotrim/CH_DETSKOE.m3u8
+#EXTINF:-1 group-title="СМОТРИМ",СМОТРИМ 100% ДЕТСКОЕ HD
+http://dmitry-tv.ddns.net/hls/smotrim/CH_DETSKOEHD.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",2012 [США/2009]
+http://dmitry-tv.ddns.net/hls/film/2012.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",47 ронинов [США/2013]
+http://dmitry-tv.ddns.net/hls/film/47RONINOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Doom [США/2005]
+http://dmitry-tv.ddns.net/hls/film/DOOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Tomb Raider. Лара Крофт [США/2018]
+http://dmitry-tv.ddns.net/hls/film/TOMB_RAIDER_LARA_KROFT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Агент Джонни Инглиш [США/2003]
+http://dmitry-tv.ddns.net/hls/film/AGENT_DZHONNI_INGLISH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Агент Джонни Инглиш: Перезагрузка [США/2011]
+http://dmitry-tv.ddns.net/hls/film/AGENT_DZHONNI_INGLISH_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Альфа [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ALFA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Амулет [ВЕЛИКОБРИТАНИЯ/2020]
+http://dmitry-tv.ddns.net/hls/film/AMULET.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Амундсен [США/2019]
+http://dmitry-tv.ddns.net/hls/film/AMUNDSEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ангелы Чарли [США/2019]
+http://dmitry-tv.ddns.net/hls/film/ANGELY_CHARLI_2019.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ангелы Чарли 2: Только вперед [США/2003]
+http://dmitry-tv.ddns.net/hls/film/ANGELY_CHARLI2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Аниара: Космическая обитель [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ANIARA_KOSMICHESKAYAOBITEL.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Анна [США/2019]
+http://dmitry-tv.ddns.net/hls/film/ANNA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Астрал 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Астрал 3 [США/2015]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Астрал 4: Последний ключ [США/2018]
+http://dmitry-tv.ddns.net/hls/film/ASTRAL4.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Атака Юрского периода [США/2012]
+http://dmitry-tv.ddns.net/hls/film/ATAKA_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Аферисты Дик и Джейн [США/2005]
+http://dmitry-tv.ddns.net/hls/film/AFERISTY_DIK_I_DZHEYN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бабушка лёгкого поведения [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/BABUSHKA_LEGKOGO_POVEDENIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бамблби [США/2018]
+http://dmitry-tv.ddns.net/hls/film/BAMBLBI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Банда Келли [США/2003]
+http://dmitry-tv.ddns.net/hls/film/BANDA_KELLI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Батарейки не прилагаются [США/1987]
+http://dmitry-tv.ddns.net/hls/film/BATAREYKI_NE_PRILAGAYUTSYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бегущий по лезвию 2049 [США/2017]
+http://dmitry-tv.ddns.net/hls/film/BEGUSHIY_PO_LEZVIYU_2049.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Белоснежка и охотник [США/2012]
+http://dmitry-tv.ddns.net/hls/film/BELOSNEZHKA_I_OHOTNIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бесконечность [США/2021]
+http://dmitry-tv.ddns.net/hls/film/BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бетховен [США/1992]
+http://dmitry-tv.ddns.net/hls/film/BETHOVEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бетховен 2 [США/1993]
+http://dmitry-tv.ddns.net/hls/film/BETHOVEN2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Библиотекарь 2: Возвращение в Копи Царя Соломона [США/2006]
+http://dmitry-tv.ddns.net/hls/film/BIBLIOTEKAR2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Библиотекарь 3: Проклятие иудовой чаши [США/2008]
+http://dmitry-tv.ddns.net/hls/film/BIBLIOTEKAR3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бладшот [США/2020]
+http://dmitry-tv.ddns.net/hls/film/BLADSHOT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Боевой робот номер 4 [США/2020]
+http://dmitry-tv.ddns.net/hls/film/BOEVOY_ROBOT_N4.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Братья Гримм [США/2005]
+http://dmitry-tv.ddns.net/hls/film/BRATYA_GRIMM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бросок кобры [США/2009]
+http://dmitry-tv.ddns.net/hls/film/BROSOK_KOBRY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Бросок кобры 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/BROSOK_KOBRY2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",В земле [ВЕЛИКОБРИТАНИЯ/2021]
+http://dmitry-tv.ddns.net/hls/film/V_ZEMLE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",В ночи [США/1985]
+http://dmitry-tv.ddns.net/hls/film/V_NOCHI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",В осаде [США/1992]
+http://dmitry-tv.ddns.net/hls/film/V_OSADE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",В осаде 2: Темная территория [США/1995]
+http://dmitry-tv.ddns.net/hls/film/V_OSADE2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Валериан и город тысячи планет [США/2017]
+http://dmitry-tv.ddns.net/hls/film/VALERIAN_I_GOROD_1000_PLANET.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ван Хельсинг [США/2004]
+http://dmitry-tv.ddns.net/hls/film/VAN_HELSING.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Великолепная семёрка [США/2016]
+http://dmitry-tv.ddns.net/hls/film/VELIKOLEPNAYA7.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Веном [США/2018]
+http://dmitry-tv.ddns.net/hls/film/VENOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Вий [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/VIY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Вирус страха [США/2020]
+http://dmitry-tv.ddns.net/hls/film/VIRUS_STRAHA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Водный мир [США/1995]
+http://dmitry-tv.ddns.net/hls/film/VODNYI_MIR.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Возвращение в Голубую лагуну [США/1991]
+http://dmitry-tv.ddns.net/hls/film/VOZVRASHENIE_V_GOLUBUYU_LAGUNU.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Возмездие [США/2010]
+http://dmitry-tv.ddns.net/hls/film/VOZMEZDIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Война миров [США/2005]
+http://dmitry-tv.ddns.net/hls/film/VOYNA_MIROV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Война миров Z [США/2013]
+http://dmitry-tv.ddns.net/hls/film/VOYNA_MIROV_Z.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Восточный ветер [ГЕРМАНИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Восточный ветер 2 [ГЕРМАНИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Восточный ветер 3: Наследие Оры [ГЕРМАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Восточный ветер 4: Легенда о Воине [ГЕРМАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/VOSTOCHNY_VETER4.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Время [США/2021]
+http://dmitry-tv.ddns.net/hls/film/VREMYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Время первых [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/VREMYA_PERVYH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Все ждут Рождество 2: Люси и магический кристалл [США/2020]
+http://dmitry-tv.ddns.net/hls/film/VSE_ZHDUT_ROZHDESTVO2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Все ждут Рождество: Люси против Крампуса [США/2018]
+http://dmitry-tv.ddns.net/hls/film/VSE_ZHDUT_ROZHDESTVO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Выживший [США/2015]
+http://dmitry-tv.ddns.net/hls/film/VYZHIVSHIY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Выкрутасы [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/VYKRUTASY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Гагарин. Первый в космосе [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/GAGARIN_1_V_KOSMOSE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Где-то во времени [США/2018]
+http://dmitry-tv.ddns.net/hls/film/GDETO_VO_VREMENI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Гемини [США/2019]
+http://dmitry-tv.ddns.net/hls/film/GEMINI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Геракл: Начало легенды [США/2014]
+http://dmitry-tv.ddns.net/hls/film/GERAKL_NACHALO_LEGENDY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Герой [КИТАЙ/2002]
+http://dmitry-tv.ddns.net/hls/film/GEROY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Голодные игры [США/2012]
+http://dmitry-tv.ddns.net/hls/film/GOLODNYE_IGRY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Голодные игры: И вспыхнет пламя [США/2013]
+http://dmitry-tv.ddns.net/hls/film/GOLODNYE_IGRY_I_VSPYHNET_PLAMYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Голодный кролик атакует [США/2011]
+http://dmitry-tv.ddns.net/hls/film/GOLODNY_KROLIK_ATAKUET.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Горец [ВЕЛИКОБРИТАНИЯ/1986]
+http://dmitry-tv.ddns.net/hls/film/GORETS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Горец 2: Оживление [ВЕЛИКОБРИТАНИЯ/1990]
+http://dmitry-tv.ddns.net/hls/film/GORETS2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Горец 3: Последнее измерение [ВЕЛИКОБРИТАНИЯ/1994]
+http://dmitry-tv.ddns.net/hls/film/GORETS3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Гори. гори ясно [США/2019]
+http://dmitry-tv.ddns.net/hls/film/GORI_GORI_YASNO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Гороскоп на удачу [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/GOROSKOP_NA_UDACHU.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Гравитация [США/2013]
+http://dmitry-tv.ddns.net/hls/film/GRAVITACIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Двое: я и моя тень [США/1995]
+http://dmitry-tv.ddns.net/hls/film/DVOE_YA_I_MOYA_TEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Двухсотлетний человек [США/1999]
+http://dmitry-tv.ddns.net/hls/film/200LETNIY_CHELOVEK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Девушка в поезде [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DEVUSHKA_V_POEZDE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Девушка. которая застряла в паутине [США/2018]
+http://dmitry-tv.ddns.net/hls/film/DEVUSHKA_KOTORAYA_ZASTRYALA_V_PAUTINE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Демон внутри [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DEMON_VNUTRI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",День выборов [РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/film/DEN_VYBOROV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Детсадовский полицейский [США/1990]
+http://dmitry-tv.ddns.net/hls/film/DETSADOVSKIY_POLITSEYSKIY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Детские игры 2 [США/1990]
+http://dmitry-tv.ddns.net/hls/film/DETSKIE_IGRY2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Детские игры 3 [США/1991]
+http://dmitry-tv.ddns.net/hls/film/DETSKIE_IGRY3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Джек Ричер [США/2012]
+http://dmitry-tv.ddns.net/hls/film/DZHEK_RICHER.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Джек Ричер 2: Никогда не возвращайся [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DZHEK_RICHER2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Джиперс Криперс [США/2001]
+http://dmitry-tv.ddns.net/hls/film/DZHIPERS_KRIPERS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Джон Уик 2 [США/2017]
+http://dmitry-tv.ddns.net/hls/film/DJONUIK2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Джон Уик 3 [США/2019]
+http://dmitry-tv.ddns.net/hls/film/DJONUIK3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Джуманджи: Новый уровень [США/2019]
+http://dmitry-tv.ddns.net/hls/film/DZHUMANDZHI_NEW_UROVEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Джунгли [РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/film/DZHUNGLI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дивергент [США/2014]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дивергент. глава 2: Инсургент [США/2015]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT2_INSURGENT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дивергент. глава 3: За стеной [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DIVERGENT3_ZA_STENOY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дитя робота [США/2018]
+http://dmitry-tv.ddns.net/hls/film/DITYA_ROBOTA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дитя человеческое [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DITYA_CHELOVECHESKOE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Добро пожаловать в Зомбилэнд! [США/2009]
+http://dmitry-tv.ddns.net/hls/film/DOBRO_POZHALOVAT_V_ZOMBILEND.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дом большой мамочки [США/2000]
+http://dmitry-tv.ddns.net/hls/film/DOM_BOLSHOY_MAMOCHKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дом большой мамочки 2 [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DOM_BOLSHOY_MAMOCHKI2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дом напротив [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DOM_NAPROTIV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Доспехи бога: В поисках сокровищ [КНР/США/2017]
+http://dmitry-tv.ddns.net/hls/film/DOSPEHIBOGA_V_POISKAH_SOKROVISH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дракула [США/2014]
+http://dmitry-tv.ddns.net/hls/film/DRAKULA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дракулов [РОССИЯ/2021]
+http://dmitry-tv.ddns.net/hls/film/DRAKULOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Другие [США/2001]
+http://dmitry-tv.ddns.net/hls/film/DRUGIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Другой мир [США/2003]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Другой мир 2: Эволюция [США/2006]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Другой мир. Войны крови [США/2016]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR_VOINY_KROVI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Другой мир. Восстание ликанов [США/2008]
+http://dmitry-tv.ddns.net/hls/film/DRUGOYMIR_VOSSTANIE_LIKANOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Дюна [США/1984]
+http://dmitry-tv.ddns.net/hls/film/DYUNA_1984.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Его собачье дело [США/2016]
+http://dmitry-tv.ddns.net/hls/film/EGO_SOBACHE_DELO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ёлки [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/ELKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ёлки 1914 [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/ELKI1914.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ёлки 2 [РОССИЯ/2011]
+http://dmitry-tv.ddns.net/hls/film/ELKI2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ёлки 3 [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/ELKI3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ёлки 5 [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/ELKI5.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ёлки лохматые [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/ELKI_LOHMATYE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ёлки новые [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/ELKI_NOVYE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Женщина в черном [КАНАДА/2012]
+http://dmitry-tv.ddns.net/hls/film/ZHENSHINA_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Женщина в черном 2: Ангел смерти [КАНАДА/2014]
+http://dmitry-tv.ddns.net/hls/film/ZHENSHINA_V_CHERNOM2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Живое [США/2017]
+http://dmitry-tv.ddns.net/hls/film/ZHIVOE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",За пределами Вселенной [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/ZA_PREDELAMI_VSELENNOY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Заклинание [США/2020]
+http://dmitry-tv.ddns.net/hls/film/ZAKLINANIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Затерянный мир [США/2009]
+http://dmitry-tv.ddns.net/hls/film/ZATERYANNY_MIR.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Затура: Космическое приключение [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ZATURA_KOSMICHESKOE_PRIKLYUCHENIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Защитники [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/ZASHITNIKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Звонок 2 [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ZVONOK2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Зелёная миля [США/1999]
+http://dmitry-tv.ddns.net/hls/film/ZELYONAYA_MILYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Зелёный Шершень [США/2011]
+http://dmitry-tv.ddns.net/hls/film/ZELENY_SHERSHEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Зеркала [США/2008]
+http://dmitry-tv.ddns.net/hls/film/ZERKALA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Зеркала: Инкарнация [США/2020]
+http://dmitry-tv.ddns.net/hls/film/ZERKALA_INKARNATSIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Злой дух [КАНАДА/2017]
+http://dmitry-tv.ddns.net/hls/film/ZLOY_DUH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Знакомьтесь: Дэйв [США/2008]
+http://dmitry-tv.ddns.net/hls/film/ZNAKOMTES_DEYV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Игра Эндера [США/2013]
+http://dmitry-tv.ddns.net/hls/film/IGRA_ENDERA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Инкассатор [США/2009]
+http://dmitry-tv.ddns.net/hls/film/INKASSATOR.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Инопланетянин [США/1982]
+http://dmitry-tv.ddns.net/hls/film/INOPLANETYANIN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Иностранец [США/2017]
+http://dmitry-tv.ddns.net/hls/film/INOSTRANETZ.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Интерстеллар [США/2014]
+http://dmitry-tv.ddns.net/hls/film/INTERSTELLAR.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Искусственный разум [США/2001]
+http://dmitry-tv.ddns.net/hls/film/ISKUSSTVENNY_RAZUM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Исчезнувшая [США/2014]
+http://dmitry-tv.ddns.net/hls/film/ISCHEZNUVSHAYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Каникулы президента [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/KANIKULY_PREZIDENTA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Каникулы строгого режима [РОССИЯ/2009]
+http://dmitry-tv.ddns.net/hls/film/KANIKULY_STROGOGO_REZHIMA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Капкан [США/2019]
+http://dmitry-tv.ddns.net/hls/film/KAPKAN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Капкан времени [США/2005]
+http://dmitry-tv.ddns.net/hls/film/KAPKAN_VREMENI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Каратэ-пацан [КНР/США/2010]
+http://dmitry-tv.ddns.net/hls/film/KARATE_PATSAN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Кинг Конг [США/2005]
+http://dmitry-tv.ddns.net/hls/film/KING_KONG.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Кладбище домашних животных [США/2019]
+http://dmitry-tv.ddns.net/hls/film/KLADBISHE_DOMASHNIH_ZHIVOTNYH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Кловерфилд 10 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/KLOVERFILD.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Книга Илая [США/2010]
+http://dmitry-tv.ddns.net/hls/film/KNIGAILAYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Когда звонит незнакомец [США/2006]
+http://dmitry-tv.ddns.net/hls/film/KOGDA_ZVONIT_NEZNAKOMETS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Код апокалипсиса [РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/film/KOD_APOKALIPSISA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Континуум [США/2014]
+http://dmitry-tv.ddns.net/hls/film/KONTINUUM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Короли улиц [США/2008]
+http://dmitry-tv.ddns.net/hls/film/KOROLI_ULITS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Космос [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/KOSMOS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Красотки в бегах [США/2015]
+http://dmitry-tv.ddns.net/hls/film/KRASOTKI_V_BEGAH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Крик [США/1996]
+http://dmitry-tv.ddns.net/hls/film/KRIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Крик 2 [США/1997]
+http://dmitry-tv.ddns.net/hls/film/KRIK2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Крик 3 [США/1997]
+http://dmitry-tv.ddns.net/hls/film/KRIK3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Кукла 2: Брамс [США/2020]
+http://dmitry-tv.ddns.net/hls/film/KUKLA2_BRAMS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Курьер из Рая [РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/KURER_IZ_RAYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Лара Крофт: Расхитительница гробниц [США/2001]
+http://dmitry-tv.ddns.net/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Лара Крофт: Расхитительница гробниц 2 Колыбель жизни [США/2003]
+http://dmitry-tv.ddns.net/hls/film/LARA_KROFT_RASHITITELNITSA_GROBNITS2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Легенда Зорро [США/2005]
+http://dmitry-tv.ddns.net/hls/film/LEGENDA_ZORRO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Легион [США/2010]
+http://dmitry-tv.ddns.net/hls/film/LEGION.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ледокол [РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/LEDOKOL.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ледяной капкан [США/2020]
+http://dmitry-tv.ddns.net/hls/film/LEDYANOY_KAPKAN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Лекарство от здоровья [США/2017]
+http://dmitry-tv.ddns.net/hls/film/LEKARSTVO_OT_ZDOROVYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Лемони Сникет. 33 несчастья [США/2004]
+http://dmitry-tv.ddns.net/hls/film/LEMONI_SNIKET_33NESCHASTYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Лес самоубийц [США/2015]
+http://dmitry-tv.ddns.net/hls/film/LES_SAMOUBIYTS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ловец снов [США/2020]
+http://dmitry-tv.ddns.net/hls/film/LOVETS_SNOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ловушка времени [США/2017]
+http://dmitry-tv.ddns.net/hls/film/LOVUSHKA_VREMENI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Лучший стрелок [США/1986]
+http://dmitry-tv.ddns.net/hls/film/LUCHSHIY_STRELOK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Лэйк Плэсид: Озеро страха [США/1999]
+http://dmitry-tv.ddns.net/hls/film/LEYK_PLESID_OZERO_STRAHA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Люди в черном [США/1997]
+http://dmitry-tv.ddns.net/hls/film/LYUDI_V_CHERNOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Люди в черном. Интернэшнл [США/2019]
+http://dmitry-tv.ddns.net/hls/film/LYUDI_V_CHERNOM_INT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",мама! [США/2017]
+http://dmitry-tv.ddns.net/hls/film/MAMA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мара. Пожиратель снов [США/2018]
+http://dmitry-tv.ddns.net/hls/film/MARA_POZHIRATEL_SNOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Матрица [США/1999]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Матрица: Перезагрузка [США/2003]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX_PEREZAGRUZKA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Матрица: Революция [США/2003]
+http://dmitry-tv.ddns.net/hls/film/THE_MATRIX_REVOLYUCIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мачете [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MACHETE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мачете убивает [США/2013]
+http://dmitry-tv.ddns.net/hls/film/MACHETE_UBIVAET.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Машина [ВЕЛИКОБРИТАНИЯ/2013]
+http://dmitry-tv.ddns.net/hls/film/MASHINA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Медальон [США/2012]
+http://dmitry-tv.ddns.net/hls/film/MEDALON.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Метро [РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/film/METRO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Механик [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MEHANIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мир Юрского периода [США/2015]
+http://dmitry-tv.ddns.net/hls/film/MIR_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Миссия невыполнима [США/1996]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Миссия невыполнима 2 [США/2000]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Миссия невыполнима 3 [США/2006]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Миссия невыполнима: Племя изгоев [США/2015]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_PLEMYA_IZGOEV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Миссия невыполнима: Последствия [США/2018]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_POSLEDSTVIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Миссия невыполнима: Протокол Фантом [США/2011]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_NEVYPOLNIMA_PROTOKOL_FANTOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Миссия Серенити [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MISSIYA_SERENITI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Монстро [США/2008]
+http://dmitry-tv.ddns.net/hls/film/MONSTRO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Морпехи [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MORPEHI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Морские паразиты [США/2019]
+http://dmitry-tv.ddns.net/hls/film/MORSKIE_PARAZITY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Морской бой [США/2012]
+http://dmitry-tv.ddns.net/hls/film/MORSKOY_BOY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Моя ужасная няня [США/2005]
+http://dmitry-tv.ddns.net/hls/film/MOYA_UZHASNAYA_NYANYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Моя ужасная няня 2 [США/2010]
+http://dmitry-tv.ddns.net/hls/film/MOYA_UZHASNAYA_NYANYA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мумия [США/1999]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мумия возвращается [США/2001]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA_VOZVRASHAETSYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мумия: Гробница Императора Драконов [США/2008]
+http://dmitry-tv.ddns.net/hls/film/MUMIYA_GROBNITSAIMPERATORADRAKONOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Мышиная охота [США/1997]
+http://dmitry-tv.ddns.net/hls/film/MYSHINAYA_OHOTA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",На крючке [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NA_KRYUCHKE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",На пятьдесят оттенков темнее [США/2017]
+http://dmitry-tv.ddns.net/hls/film/NA_50_OTTENKOV_TEMNEE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Назад в будущее 2 [США/1989]
+http://dmitry-tv.ddns.net/hls/film/NAZAD_V_BUDUSHEE2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Нападение на 13-й участок [США/2005]
+http://dmitry-tv.ddns.net/hls/film/NAPADENIE_NA_13_UCHASTOK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Напарник [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/NAPARNIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Наша Russia: Яйца судьбы [РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/NASHA_RUSSIA_YAYTSASUDBY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Невезучие [США/2003]
+http://dmitry-tv.ddns.net/hls/film/NEVEZUCHIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Невероятный Халк [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NEVEROYATNY_HALK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Невидимка [США/2000]
+http://dmitry-tv.ddns.net/hls/film/NEVIDIMKA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Незваные [США/2008]
+http://dmitry-tv.ddns.net/hls/film/NEZVANYE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Нечто [США/2011]
+http://dmitry-tv.ddns.net/hls/film/NECHTO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Никто [США/2021]
+http://dmitry-tv.ddns.net/hls/film/NIKTO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Новый Человек-паук: Высокое напряжение [США/2014]
+http://dmitry-tv.ddns.net/hls/film/NEW_CHELOVEK_PAUK_VYSOKOENAPRYAZHENIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ной [США/2014]
+http://dmitry-tv.ddns.net/hls/film/NOY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Обитаемый остров [РОССИЯ/2008]
+http://dmitry-tv.ddns.net/hls/film/OBITAEMY_OSTROV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Обитель теней [ИСПАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/OBITEL_TENEY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Обливион [США/2013]
+http://dmitry-tv.ddns.net/hls/film/OBLIVION.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Образцовый самец 2 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/OBRAZTSOVY_SAMETS2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Омерзительная восьмерка [США/2015]
+http://dmitry-tv.ddns.net/hls/film/OMERZITELNAYA_8.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Он - дракон [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/ON_DRAKON.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Оружейный барон [США/2005]
+http://dmitry-tv.ddns.net/hls/film/ORUZHEYNY_BARON.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Особое мнение [США/2002]
+http://dmitry-tv.ddns.net/hls/film/OSOBOE_MNENIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Остров головорезов [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OSTROV_GOLOVOREZOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Остров проклятых [США/2009]
+http://dmitry-tv.ddns.net/hls/film/OP.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Остров фантазий [США/2020]
+http://dmitry-tv.ddns.net/hls/film/OSTROV_FANTAZIY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",От заката до рассвета [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OT_ZAKATA_DO_RASSVETA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Отмель [США/2016]
+http://dmitry-tv.ddns.net/hls/film/OTMEL.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Отрыв [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/OTRYV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Отчаянный [США/1995]
+http://dmitry-tv.ddns.net/hls/film/OTCHAYANNY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Охотники [США/2013]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Охотники за привидениями 2 [США/1989]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI_ZA_PRIVIDENIYAMI2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Охотники на ведьм [США/2012]
+http://dmitry-tv.ddns.net/hls/film/OHOTNIKI_NA_VEDM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Охранник [США/2006]
+http://dmitry-tv.ddns.net/hls/film/OHRANNIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пакт [США/2011]
+http://dmitry-tv.ddns.net/hls/film/PAKT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пакт 2 [США/2014]
+http://dmitry-tv.ddns.net/hls/film/PAKT2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Паразиты [КОРЕЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PARAZITY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Парк Юрского периода [США/1993]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Парк Юрского периода 2: Затерянный мир [США/1997]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Парк Юрского периода 3 [США/2001]
+http://dmitry-tv.ddns.net/hls/film/PARK_YURSKOGO_PERIODA3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пассажир [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PASSAZHIR.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пассажиры [США/2016]
+http://dmitry-tv.ddns.net/hls/film/PASSAZHIRY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Патриот [США/2000]
+http://dmitry-tv.ddns.net/hls/film/PATRIOT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Патруль времени [КИТАЙ/2010]
+http://dmitry-tv.ddns.net/hls/film/PATRUL_VREMENI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Перспектива [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PERSPEKTIVA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пес под прикрытием [США/2019]
+http://dmitry-tv.ddns.net/hls/film/PES_POD_PRIKRYTIEM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пианист [ВЕЛИКОБРИТАНИЯ/2002]
+http://dmitry-tv.ddns.net/hls/film/PIANIST.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пиковая дама: Зазеркалье [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PIKOVAYA_DAMA_ZAZERKALE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пиксели [США/2015]
+http://dmitry-tv.ddns.net/hls/film/PIKSELI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пипец 2 [США/2013]
+http://dmitry-tv.ddns.net/hls/film/PIPETS2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Плохие парни навсегда [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PLOHIE_PARNI_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Повелитель стихий [США/2010]
+http://dmitry-tv.ddns.net/hls/film/POVELITEL_STIHIY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Поворот не туда: Наследие [США/2021]
+http://dmitry-tv.ddns.net/hls/film/POVOROT_NE_TUDA_NASLEDIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Поезд в Пусан [КОРЕЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/POEZDVPUSAN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Поиск [США/2018]
+http://dmitry-tv.ddns.net/hls/film/POISK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пол: Секретный материальчик [США/2011]
+http://dmitry-tv.ddns.net/hls/film/POL_SEKRETNY_MATERIALCHIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Полночь на злаковом поле [США/2021]
+http://dmitry-tv.ddns.net/hls/film/POLNOCH_NA_ZLAKOVOM_POLE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Полтергейст [США/2015]
+http://dmitry-tv.ddns.net/hls/film/POLTERGEYST.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Помешанный на времени [США/2018]
+http://dmitry-tv.ddns.net/hls/film/POMESHANNY_NA_VREMENI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Помогите. я уменьшил своих родителей! [ГЕРМАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/POMOGITE_YA_UMENSHIL_SVOIH_RODITELEY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Помогите. я уменьшил свою училку! [ГЕРМАНИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/POMOGITE_YA_UMENSHIL_SVOYU_UCHILKU.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Портал [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PORTAL.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",После нашей эры [США/2013]
+http://dmitry-tv.ddns.net/hls/film/POSLE_NASHEY_ERY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Последний КИНОгерой [США/1993]
+http://dmitry-tv.ddns.net/hls/film/POSLEDNIY_KINOGEROY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Последний рубеж [США/2013]
+http://dmitry-tv.ddns.net/hls/film/POSLEDNIY_RUBEZH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Потерянный остров [РОССИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/POTERYANNY_OSTROV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Потомство Чаки [США/2004]
+http://dmitry-tv.ddns.net/hls/film/POTOMSTVO_CHAKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Потрошители [США/2009]
+http://dmitry-tv.ddns.net/hls/film/POTROSHITELI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Предвестники бури [США/2004]
+http://dmitry-tv.ddns.net/hls/film/PREDVESTNIKI_BURI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Представь себе [США/2008]
+http://dmitry-tv.ddns.net/hls/film/PREDSTAV_SEBE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Преступить черту [ИСПАНИЯ/2020]
+http://dmitry-tv.ddns.net/hls/film/PRESTUPIT_CHERTU.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Привидение [США/1990]
+http://dmitry-tv.ddns.net/hls/film/PRIVIDENIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Призрак [РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Призрак в доспехах [США/2017]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK_V_DOSPEHAH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Призрак дома на холме [США/1999]
+http://dmitry-tv.ddns.net/hls/film/PRIZRAK_DOMA_NA_HOLME.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Призрачный гонщик [США/2007]
+http://dmitry-tv.ddns.net/hls/film/PRIZRACHNY_GONSHIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Призрачный патруль [США/2013]
+http://dmitry-tv.ddns.net/hls/film/PRIZRACHNY_PATRUL.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Приключения Паддингтона 2 [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/PRIKLYUCHENIYA_PADDINGTONA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пришелец [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PRISHELEC.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пришельцы на чердаке [США/2009]
+http://dmitry-tv.ddns.net/hls/film/PRISHELTSY_NA_CHERDAKE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пробуждающая совесть [ДАНИЯ/2016]
+http://dmitry-tv.ddns.net/hls/film/PROBUZHDAYUSHAYA_SOVEST.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пробуждающая совесть 2: Дар змеи [ДАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PROBUZHDAYUSHAYA_SOVEST2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Проводник [РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/PROVODNIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Прогулка среди могил [США/2014]
+http://dmitry-tv.ddns.net/hls/film/PSM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Проклятие [США/2020]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Проклятие Спящей красавицы [США/2015]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIESPYASHEYKRASAVITSY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Проклятие: Кукла ведьмы [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE_KUKLA_VEDMY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Проклятие: Обитель смерти [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATIE_OBITEL_SMERTI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Проклятый дом [США/2018]
+http://dmitry-tv.ddns.net/hls/film/PROKLYATY_DOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Птичка на проводе [США/1990]
+http://dmitry-tv.ddns.net/hls/film/PTICHKA_NA_PROVODE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Пушки Акимбо [ВЕЛИКОБРИТАНИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/PUSHKI_AKIMBO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Разлом [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RAZLOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Разлом времени [США/2017]
+http://dmitry-tv.ddns.net/hls/film/RAZLOM_VREMENI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Расправа [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RASPRAVA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Рассказы Русалочки [США/2018]
+http://dmitry-tv.ddns.net/hls/film/RASSKAZY_RUSALOCHKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ремнант: Всё ещё вижу тебя [США/2018]
+http://dmitry-tv.ddns.net/hls/film/REMNANT_VSE_ESHE_VIZHU_TEBYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Репродукция [США/2018]
+http://dmitry-tv.ddns.net/hls/film/REPRODUKCIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Робин Гуд [США/2010]
+http://dmitry-tv.ddns.net/hls/film/ROBIN_GUD.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Робот по имени Чаппи [США/2015]
+http://dmitry-tv.ddns.net/hls/film/ROBOT_PO_IMENI_CHAPPI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Русалка на суше [США/2019]
+http://dmitry-tv.ddns.net/hls/film/RUSALKA_NA_SUSHE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Рыжая Соня [США/1985]
+http://dmitry-tv.ddns.net/hls/film/RYZHAYA_SONYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",С меня хватит [США/2002]
+http://dmitry-tv.ddns.net/hls/film/S_MENYA_HVATIT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Салют-7 [РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/SALYUT7.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Святые из Бундока 2. День всех святых [США/2009]
+http://dmitry-tv.ddns.net/hls/film/SVYATYE_IZ_BUNDOKA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Сделка с дьяволом [США/2006]
+http://dmitry-tv.ddns.net/hls/film/SDELKA_S_DYAVOLOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Седьмой сын [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/7_SYN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Сердце из стали [КИТАЙ/2017]
+http://dmitry-tv.ddns.net/hls/film/SERDCE_IZ_STALI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Сингулярность [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SINGULYARNOST.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Синяя бездна 2 [США/2019]
+http://dmitry-tv.ddns.net/hls/film/SINYAYA_BEZDNA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Сквозь снег [США/2013]
+http://dmitry-tv.ddns.net/hls/film/SKVOZ_SNEG.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Слендермен [США/2018]
+http://dmitry-tv.ddns.net/hls/film/SLENDERMEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Смоки и Бандит [США/1977]
+http://dmitry-tv.ddns.net/hls/film/SMOKI_I_BANDIT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Смокинг [США/2002]
+http://dmitry-tv.ddns.net/hls/film/SMOKING.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Снеговик [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SNEGOVIK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Снегурочка против всех [США/2021]
+http://dmitry-tv.ddns.net/hls/film/SNEGUROCHKA_PROTIV_VSEH.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Сокровище Амазонки [США/2003]
+http://dmitry-tv.ddns.net/hls/film/SOKROVISHE_AMAZONKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Соник в КИНО [США/2020]
+http://dmitry-tv.ddns.net/hls/film/SONIC_V_KINO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Спасатели Малибу [ВЕЛИКОБРИТАНИЯ/2017]
+http://dmitry-tv.ddns.net/hls/film/SPASATELI_MALIBU.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Сплит [США/2017]
+http://dmitry-tv.ddns.net/hls/film/SPLIT.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Стартрек: Бесконечность [США/2016]
+http://dmitry-tv.ddns.net/hls/film/STARTREK_BESKONECHNOST.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Столкновение с бездной [США/1998]
+http://dmitry-tv.ddns.net/hls/film/STOLKNOVENIE_S_BEZDNOY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Сторожевая застава [УКРАИНА/2017]
+http://dmitry-tv.ddns.net/hls/film/STOROZHEVAYA_ZASTAVA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Страна призраков [ФРАНЦИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/STRANA_PRIZRAKOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Страшно красив [США/2011]
+http://dmitry-tv.ddns.net/hls/film/STRASHNO_KRASIV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Судная ночь 2 [США/2014]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Судная ночь 3 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Судная ночь навсегда [США/2021]
+http://dmitry-tv.ddns.net/hls/film/SUDNAYA_NOCH_NAVSEGDA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Супер Такса [США/2015]
+http://dmitry-tv.ddns.net/hls/film/SUPER_TAKSA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Супергерои [ДОК/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/film/SUPERGEROI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Тёмная башня [США/2017]
+http://dmitry-tv.ddns.net/hls/film/TEMNAYA_BASHNYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Терминатор. Да придет спаситель [США/2009]
+http://dmitry-tv.ddns.net/hls/film/TERMINATOR_DA_PRIDET_SPASITEL.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Терминатор: Генезис [США/2015]
+http://dmitry-tv.ddns.net/hls/film/TERMINATOR_GENEZIS.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Территория [РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/film/TERRITORIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Титан [США/2018]
+http://dmitry-tv.ddns.net/hls/film/TITAN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Трансформеры [США/2007]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Трансформеры 2: Месть падших [США/2009]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Трансформеры 3: Темная сторона Луны [США/2011]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY3.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Трансформеры 4: Эпоха истребления [США/2014]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY4.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Трансформеры 5: Последний рыцарь [США/2017]
+http://dmitry-tv.ddns.net/hls/film/TRANSFORMERY5.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Тренер Картер [США/2005]
+http://dmitry-tv.ddns.net/hls/film/TRENER_KARTER.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Третий лишний [США/2012]
+http://dmitry-tv.ddns.net/hls/film/3_LISHNIY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Третий лишний 2 [США/2015]
+http://dmitry-tv.ddns.net/hls/film/3_LISHNIY2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Три метра над уровнем неба [ИСПАНИЯ/2010]
+http://dmitry-tv.ddns.net/hls/film/3METRA_NAD_UROVNEM_NEBA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Трудная мишень [США/1993]
+http://dmitry-tv.ddns.net/hls/film/TRUDNAYA_MISHEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Туннель: Опасно для жизни [НОРВЕГИЯ/2019]
+http://dmitry-tv.ddns.net/hls/film/TUNNEL_OPASNO_DLYA_ZHIZNI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Тысяча слов [США/2009]
+http://dmitry-tv.ddns.net/hls/film/1000SLOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Убить Билла [США/2003]
+http://dmitry-tv.ddns.net/hls/film/UBIT_BILLA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Убить Билла 2 [США/2004]
+http://dmitry-tv.ddns.net/hls/film/UBIT_BILLA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ужас Амитивилля [США/2005]
+http://dmitry-tv.ddns.net/hls/film/UZHAS_AMITIVILLYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ужастики [США/2015]
+http://dmitry-tv.ddns.net/hls/film/UZHASTIKI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ускорение [США/2015]
+http://dmitry-tv.ddns.net/hls/film/USKORENIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Факультет [США/1998]
+http://dmitry-tv.ddns.net/hls/film/FAKULTET.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Фантом [РОССИЯ/США/2011]
+http://dmitry-tv.ddns.net/hls/film/FANTOM.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Форсаж 9 [США/2021]
+http://dmitry-tv.ddns.net/hls/film/FORSAZH9.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Халк [США/2003]
+http://dmitry-tv.ddns.net/hls/film/HALK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Химера [США/2009]
+http://dmitry-tv.ddns.net/hls/film/HIMERA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Хоббит: Битва пяти воинств [США/2014]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_BITVA_5TI_VOINSTV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Хоббит: Нежданное путешествие [США/2012]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_NEZHDANNOE_PUTESHESTVIE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Хоббит: Пустошь Смауга [США/2013]
+http://dmitry-tv.ddns.net/hls/film/HOBBIT_PUSTOSH_SMAUGA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Хранители [США/2009]
+http://dmitry-tv.ddns.net/hls/film/HRANITELI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Хранитель времени [США/2011]
+http://dmitry-tv.ddns.net/hls/film/HRANITEL_VREMENI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Хроники Риддика [США/2004]
+http://dmitry-tv.ddns.net/hls/film/HRONIKI_RIDDIKA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Хэнкок [США/2008]
+http://dmitry-tv.ddns.net/hls/film/HENKOK.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Царь скорпионов [США/2002]
+http://dmitry-tv.ddns.net/hls/film/TSAR_SKORPIONOV.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Человек из стали [США/2013]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_IZ_STALI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Человек на Луне [США/2018]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_NA_LUNE.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Человек-паук. Возвращение домой [США/2017]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_PAUK_VOZVRASHENIEDOMOY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Человек-паук: Вдали от дома [США/2019]
+http://dmitry-tv.ddns.net/hls/film/CHELOVEK_PAUK_VDALI_OT_DOMA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Челюсти [США/1975]
+http://dmitry-tv.ddns.net/hls/film/CHELYUSTI.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Челюсти 2 [США/1978]
+http://dmitry-tv.ddns.net/hls/film/CHELYUSTI2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Черепашки-ниндзя [США/2014]
+http://dmitry-tv.ddns.net/hls/film/CHEREPASHKI_NINDZYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Черепашки-ниндзя 2 [США/2016]
+http://dmitry-tv.ddns.net/hls/film/CHEREPASHKI_NINDZYA2.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Черная дыра [США/2000]
+http://dmitry-tv.ddns.net/hls/film/CHERNAYA_DYRA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Черная молния [РОССИЯ/2009]
+http://dmitry-tv.ddns.net/hls/film/CHERNAYA_MOLNIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Четыре пера [США/2002]
+http://dmitry-tv.ddns.net/hls/film/CHETYRE_PERA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Шальная карта [США/2014]
+http://dmitry-tv.ddns.net/hls/film/SHALNAYA_KARTA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Шестой день [США/2000]
+http://dmitry-tv.ddns.net/hls/film/6_DEN.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Школа выживания [США/2008]
+http://dmitry-tv.ddns.net/hls/film/SHKOLA_VYZHIVANIYA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Штурм Белого дома [США/2013]
+http://dmitry-tv.ddns.net/hls/film/SHTURM_BELOGO_DOMA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Эван Всемогущий [США/2007]
+http://dmitry-tv.ddns.net/hls/film/EVAN_VSEMOGUSHIY.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Эксперимент: Зло [США/2013]
+http://dmitry-tv.ddns.net/hls/film/EKSPERIMENT_ZLO.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Ю-571 [США/2000]
+http://dmitry-tv.ddns.net/hls/film/YU_571.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Я легенда [США/2007]
+http://dmitry-tv.ddns.net/hls/film/YA_LEGENDA.m3u8
+#EXTINF:-1 group-title="ФИЛЬМЫ",Я. Франкенштейн [США/2013]
+http://dmitry-tv.ddns.net/hls/film/YA_FRANKENSHTEYN.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Астерикс и тайное зелье [МУЛЬТ/ФРАНЦИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/ASTERIKS_I_TAYNOE_ZELE.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Барашек Шон [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2014]
+http://dmitry-tv.ddns.net/hls/multfilm/BARASHEK_SHON.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Босс-молокосос 2 [МУЛЬТ/США/2021]
+http://dmitry-tv.ddns.net/hls/multfilm/BOSS_MOLOKOSOS2.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Волки и овцы: бе-е-е-зумное превращение [МУЛЬТ/РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/VOLKI_I_OVTSY.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Волки и овцы: Ход свиньей [МУЛЬТ/РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/VOLKI_I_OVTSY_HOD_SVINEY.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Дикие предки [МУЛЬТ/ВЕЛИКОБРИТАНИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/DIKIE_PREDKI.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Добрыня Никитич и Змей Горыныч [МУЛЬТ/РОССИЯ/2006]
+http://dmitry-tv.ddns.net/hls/multfilm/DOBRYNYANIKITICH_I_ZMEY_GORYNYCH.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Иван Царевич и Серый Волк [МУЛЬТ/РОССИЯ/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Иван Царевич и Серый Волк 2 [МУЛЬТ/РОССИЯ/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK2.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Иван Царевич и Серый Волк 3 [МУЛЬТ/РОССИЯ/2015]
+http://dmitry-tv.ddns.net/hls/multfilm/IVANCAREVICH_I_SERYI_VOLK3.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Илья Муромец и Соловей Разбойник [МУЛЬТ/РОССИЯ/2007]
+http://dmitry-tv.ddns.net/hls/multfilm/ILYAMUROMEC_I_SOLOVEY_RAZBOYNIK.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Королевский корги [МУЛЬТ/БЕЛЬГИЯ/2019]
+http://dmitry-tv.ddns.net/hls/multfilm/KOROLEVSKIY_KORGI.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Кот в сапогах [МУЛЬТ/США/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/KOT_V_SAPOGAH.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Кот Гром и заколдованный дом [МУЛЬТ/США/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/KOT_GROM_I_ZAKOLDOVANNY_DOM.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Мадагаскар [МУЛЬТ/США/2005]
+http://dmitry-tv.ddns.net/hls/multfilm/MADAGASKAR.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Монстры на каникулах [МУЛЬТ/США/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/MONSTRY_NA_KANIKULAH.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Монстры на каникулах 3. Море зовёт [МУЛЬТ/США/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/MONSTRY_NA_KANIKULAH3.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Облачно. возможны осадки в виде фрикаделек [МУЛЬТ/США/2009]
+http://dmitry-tv.ddns.net/hls/multfilm/OBLACHNO.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Облачно... 2. Месть ГМО [МУЛЬТ/США/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/OBLACHNO2.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Приключения Тинтина: Тайна Единорога [МУЛЬТ/США/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/PRIKLYUCHENIYA_TINTINA_TAYNA_EDINOROGA.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Ранго [МУЛЬТ/США/2011]
+http://dmitry-tv.ddns.net/hls/multfilm/RANGO.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Робинзон Крузо: Очень обитаемый остров [МУЛЬТ/ФРАНЦИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/ROBINZON_KRUZO.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Рок Дог [МУЛЬТ/США/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/ROK_DOG.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Семейка Крудс: Новоселье [МУЛЬТ/США/2020]
+http://dmitry-tv.ddns.net/hls/multfilm/SEMEYKA_KRUDS_NOVOSELE.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Смурфики 2 [МУЛЬТ/США/2013]
+http://dmitry-tv.ddns.net/hls/multfilm/SMURFIKI2.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Смурфики. Затерянная деревня [МУЛЬТ/США/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/SMURFIKI_ZATERYANNAYA_DEREVNYA.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Снежная королева [МУЛЬТ/РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Снежная королева 2: Перезаморозка [МУЛЬТ/РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA2.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Снежная королева 3: Огонь и лёд [МУЛЬТ/РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/SNEZHNAYA_KOROLEVA3.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Спирит Непокорный [МУЛЬТ/США/2021]
+http://dmitry-tv.ddns.net/hls/multfilm/SPIRIT_NEPOKORNYI.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Стань легендой! Бигфут Младший [МУЛЬТ/БЕЛЬГИЯ/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/STAN_LEGENDOY.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и Морской царь [МУЛЬТ/РОССИЯ/2016]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_MORSKOY_CAR.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и Наследница престола [МУЛЬТ/РОССИЯ/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_NASLEDNICA_PRESTOLA.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и принцесса Египта [МУЛЬТ/РОССИЯ/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_PRINCESSA_EGIPTA.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря и Шамаханская царица [МУЛЬТ/РОССИЯ/2010]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_I_SHAMAHANSKAYA_CARICA.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря на дальних берегах [МУЛЬТ/РОССИЯ/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_NA_DALNIH_BEREGAH.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Три богатыря. Ход конем [МУЛЬТ/РОССИЯ/2014]
+http://dmitry-tv.ddns.net/hls/multfilm/TRIBOGATYRYA_HOD_KONEM.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Человек-паук. Через вселенные [МУЛЬТ/США/2018]
+http://dmitry-tv.ddns.net/hls/multfilm/CHELOVEK_PAUK_CHEREZ_VSELENNYE.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Шрэк [МУЛЬТ/США/2001]
+http://dmitry-tv.ddns.net/hls/multfilm/SHREK.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Шрэк 2 [МУЛЬТ/США/2004]
+http://dmitry-tv.ddns.net/hls/multfilm/SHREK2.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Шрэк третий [МУЛЬТ/США/2007]
+http://dmitry-tv.ddns.net/hls/multfilm/SHREK_TRETIY.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Эмоджи фильм [МУЛЬТ/США/2017]
+http://dmitry-tv.ddns.net/hls/multfilm/EMODZHI_FILM.m3u8
+#EXTINF:-1 group-title="МУЛЬТФИЛЬМЫ",Эрнест и Селестина: Приключения мышки и медведя [МУЛЬТ/ФРАНЦИЯ/2012]
+http://dmitry-tv.ddns.net/hls/multfilm/ERNEST_I_SELESTINA.m3u8
+#EXTINF:-1 group-title="RELAX"  tvg-logo="https://i.postimg.cc/SNzCzTBf/5c203420845831-562f213b2e6f7.png",Камин ТВ
+https://rt-vlg-nn-htlive.cdn.ngenix.net/hls/CH_R05_KAMINTV/variant.m3u8
