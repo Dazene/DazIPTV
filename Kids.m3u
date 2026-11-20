@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1, МУЛЬТ
+http://dmitry-tv.ddns.net/hls/CH_MULT.m3u8
+#EXTINF:-1, Солнце
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY.m3u8
+#EXTINF:-1, Солнце (+2)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_2.m3u8
+#EXTINF:-1, Солнце (+4)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_4.m3u8
+#EXTINF:-1, Солнце (+6)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_6.m3u8
+#EXTINF:-1, Солнце (+7)
+http://dmitry-tv.ddns.net/hls/zabava/CH_DISNEY_7.m3u8
+#EXTINF:-1, В гостях у сказки
+http://dmitry-tv.ddns.net/hls/CH_VGOSTYAHUSKAZKI.m3u8
+#EXTINF:-1, В гостях у сказки HD
+http://dmitry-tv.ddns.net/hls/CH_VGOSTYAHUSKAZKIHD.m3u8
+#EXTINF:-1, Мультиландия
+http://dmitry-tv.ddns.net/hls/CH_MULTILANDIA.m3u8
+#EXTINF:-1, О!
+http://dmitry-tv.ddns.net/hls/CH_O.m3u8
+#EXTINF:-1, Рыжий
+http://dmitry-tv.ddns.net/hls/CH_RYZHIY.m3u8
+#EXTINF:-1, Детский
+http://dmitry-tv.ddns.net/hls/CH_DETSKIY.m3u8
+#EXTINF:-1, Tiji
+http://dmitry-tv.ddns.net/hls/CH_TIJI.m3u8
+#EXTINF:-1, Gulli GIRL
+http://dmitry-tv.ddns.net/hls/CH_GULLI_GIRL.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png", СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png", Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1, Мультимейшн
+https://bl.RUTUBE.ru/livestream/bc2933d28daf33f5a68257ebc72787cd/index.m3u8?s=m0zwaamBAym9yqZXAICwrQ&e=2092608944&scheme=https
+#EXTINF:-1, Мультфильмы 24/7
+https://bl.RUTUBE.ru/livestream/76de13007ff82a001f786f148e9fd39a/index.m3u8?s=zc-rTHyAiR9xpSqKG6mgjw&e=2092608944&scheme=https
+#EXTINF:-1, Мультаташечки
+https://bl.RUTUBE.ru/livestream/25a96d214a176541fba1d342ac760ee9/index.m3u8?s=mvu1Ogj2Q7Irr8r1oDuvJA&e=2092608945&scheme=https
